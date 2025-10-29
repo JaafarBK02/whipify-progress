@@ -15,7 +15,6 @@ Whipify turns that real-world pain point into an AI-driven tool that empowers dr
 
 ## 🔍 Features
 - Predicts likely vehicle issues based on user text input  
-- Built-in safety filters to avoid misleading responses  
 - Beta web demo for closed testing  
 - Structured output for explainable results
 
@@ -28,7 +27,6 @@ User Input → Preprocessing → ML Model → Prediction → Streamlit UI
 ## 🎯 Results & Next Steps
 - Beta launched with trusted testers  
 - Expanding dataset and refining predictions  
-- Planning cost-estimation and transparency modules
 
 ## 📚 Lessons Learned
 - Translating messy real-world language into structured signals  
@@ -45,4 +43,5 @@ If you’re a recruiter, collaborator, or tester, feel free to **Reach out to me
 
 ---
 
-> “Started from frustration, built with curiosity — Whipify aims to make car repair more transparent and stress-free.”
+> “Started from frustration, built with curiosity, Whipify aims to make car repair more transparent and stress-free.”
+
